@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: geniuschamp99-ui/genius-champ-school
+  name: git-gateway
   branch: main
 
 media_folder: "images"
