@@ -15,4 +15,6 @@ collections:
         name: "index"
         file: "index.html"
         fields:
-          - { label: "School Title Tag", name: "title", widget: "string" }
+         - { label: "Main Title", name: "title", widget: "string" }
+         - { label: "Body Text", name: "body", widget: "markdown" }
+       
